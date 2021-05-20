@@ -18,6 +18,5 @@ int main()
 	//l1.booksAll();
 
 
-	std::cout << "heloooooooooooooo";
 	return 0;
 }
